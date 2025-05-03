@@ -1,3 +1,22 @@
+## 💰 Aplicación de Finanzas Personales
+
+Aplicación web desarrollada con **React** para gestionar tus finanzas personales. Permite registrar ingresos, gastos y visualizar un resumen financiero actualizado en tiempo real.
+
+### 🚀 Funcionalidades
+
+- Registro de ingresos y gastos
+- Visualización del balance
+- Interfaz responsiva
+- Lista para instalar como PWA
+
+### 🛠️ Tecnologías
+
+- React
+- JavaScript
+- HTML/CSS
+- Webpack
+- Service Worker (PWA)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
