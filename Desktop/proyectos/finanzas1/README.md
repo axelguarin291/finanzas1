@@ -68,3 +68,23 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## 💰 Aplicación de Finanzas Personales
+
+Aplicación web desarrollada con **React** para gestionar tus finanzas personales. Permite registrar ingresos, gastos y visualizar un resumen financiero actualizado en tiempo real.
+
+### 🚀 Funcionalidades
+
+- Registro de ingresos y gastos
+- Visualización del balance
+- Interfaz responsiva
+- Lista para instalar como PWA
+
+### 🛠️ Tecnologías
+
+- React
+- JavaScript
+- HTML/CSS
+- Webpack
+- Service Worker (PWA)
+
